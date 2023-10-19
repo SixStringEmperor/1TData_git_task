@@ -1,1 +1,1 @@
-# 1TData_git_task
+Задание по Git в курсу 1TData
